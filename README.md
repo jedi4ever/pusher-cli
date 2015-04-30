@@ -7,9 +7,9 @@ required environment variables
 - $PUSHER_PASSWORD : your pusher-account password
 
 ```
-export PUSHER_EMAIL = "me@somedomain.com"
-export PUSHER_PASSWORD = "supersecret"
-./pusher-cli
+$ export PUSHER_EMAIL = "me@somedomain.com"
+$ export PUSHER_PASSWORD = "supersecret"
+$ ./pusher-cli
 ```
 
 Output:
