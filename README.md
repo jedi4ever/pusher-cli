@@ -7,6 +7,9 @@ required environment variables
 - $PUSHER_PASSWORD : your pusher-account password
 
 
+Currently only lists all appIds, Keys and Secrets.
+Soon will work on create & delete & find specifc Pair
+
 # Usage:
 ```
 $ export PUSHER_EMAIL="me@somedomain.com"
